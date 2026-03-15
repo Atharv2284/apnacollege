@@ -1,4 +1,4 @@
 # apnacollege
 this my first github project 
 <br>
-author = atharv hole
+author = atharv (Sanjay) hole
